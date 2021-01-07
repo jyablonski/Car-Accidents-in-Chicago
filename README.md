@@ -33,6 +33,7 @@ Month
 ![crashtimeseries](https://user-images.githubusercontent.com/16946556/103946554-99a20180-50eb-11eb-9fdc-aa065bcd4ca7.png)
 ![crashinjurypercent](https://user-images.githubusercontent.com/16946556/103946555-99a20180-50eb-11eb-9292-de126fd26b6e.png)
 ![crashweather](https://user-images.githubusercontent.com/16946556/103946557-9a3a9800-50eb-11eb-9fd4-493df03cb1cc.png)
-![crashprimcause](https://user-images.githubusercontent.com/16946556/103946558-9a3a9800-50eb-11eb-87ac-1dba08733b24.png)
+![crashprimcause](https://user-images.githubusercontent.com/16946556/103946771-eab1f580-50eb-11eb-9484-116f0397cfe0.png)
+
 
 
