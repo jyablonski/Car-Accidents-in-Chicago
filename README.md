@@ -60,4 +60,7 @@ Weather is another important variable I believed would have an impact.  Fog and 
 ![crashprimcause](https://user-images.githubusercontent.com/16946556/103946771-eab1f580-50eb-11eb-9484-116f0397cfe0.png)
 The final graph looks at Primary Contributory Causes of each car accident.  Disregarding traffic signals & signs, as well as the physical conditions of the driver seem to be the most likely causes to lead to injury.  Tying this data back to the longitude & latitude, graph, you could take a subset of the dataset and only filter out only the disregarding traffic signs cause and then analyze the lat/long plot to see if there were any areas in the city where maybe an additional traffic sign needs to be added.
 
+![crashtypesbby](https://user-images.githubusercontent.com/16946556/103952188-d0c8e080-50f4-11eb-9275-099edd09024d.png)
+
+
 
