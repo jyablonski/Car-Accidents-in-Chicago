@@ -17,6 +17,7 @@ Traffic Way Type           | Posted Speed Limit
 Lighting Condition         | Latitude
 Roadway Surface Condition  | Longitude
 First Crash Type           | Number of Cars Involved
+Weather Condition
 Hour
 Month
 
