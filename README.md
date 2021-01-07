@@ -9,17 +9,17 @@ The Dataset comes from the [City of Chicago](https://data.cityofchicago.org/), w
 
 Below are the variables I chose to select for all of my analysis.
 
-Continuous Variables   | Categorical Variables
----------------------- | ---------------------
-Injuries               | Primary Contributory Cause
-Crash Date             | Report Type
-Number of Cars Involved| Weather Condition
-                       | Lighting Condition
-                       | Roadway Surface Condition
-                       | First Crash Type
-                       | Traffic Way Type
-                       | Hour
-                       | Month
+Categorical Variables      | Continuous Variables    
+-------------------------- | ---------------------- 
+Primary Contributory Cause | Injuries  
+Report Type                | Crash Date 
+Number of Cars Involved    | Posted Speed Limit
+Lighting Condition         | Latitude
+Roadway Surface Condition  | Longitude
+First Crash Type
+Traffic Way Type
+Hour
+Month
 
 
 ## Exploratory Data Analysis
