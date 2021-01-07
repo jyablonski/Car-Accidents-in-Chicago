@@ -7,7 +7,7 @@ This project goes through my process of analyzing 200,000 observations of car ac
 ## The Data
 The Dataset comes from the [City of Chicago](https://data.cityofchicago.org/), where they offer an API to search for and extract various data from a number of their different departments.  For the project I chose to select all car accident report data from January 7th, 2019 to January 7th, 2021.  2 years of sample size gave me the right amount of data I felt comfortable working with, and should be more than enough to help find meaningful insights.
 
-Below are the variables I chose to select for all of my analysis.
+Below are the 15 variables I chose to select for all of my analysis.
 
 Categorical Variables      | Continuous Variables    
 -------------------------- | ---------------------- 
