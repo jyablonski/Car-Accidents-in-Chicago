@@ -13,11 +13,10 @@ Categorical Variables      | Continuous Variables
 -------------------------- | ---------------------- 
 Primary Contributory Cause | Injuries  
 Report Type                | Crash Date 
-Number of Cars Involved    | Posted Speed Limit
+Traffic Way Type           | Posted Speed Limit
 Lighting Condition         | Latitude
 Roadway Surface Condition  | Longitude
-First Crash Type
-Traffic Way Type
+First Crash Type           | Number of Cars Involved
 Hour
 Month
 
