@@ -28,7 +28,7 @@ Month
 ![crashlightcond](https://user-images.githubusercontent.com/16946556/103946545-9870d480-50eb-11eb-8b2b-c7a950e6206b.png)
 ![crashnormalhr](https://user-images.githubusercontent.com/16946556/103946546-99096b00-50eb-11eb-86ac-e3abb3a33a6a.png)
 ![crashlatlong](https://user-images.githubusercontent.com/16946556/103946549-99096b00-50eb-11eb-8c48-6e7084dfb454.png)
-![crashmonthly](https://user-images.githubusercontent.com/16946556/103946551-99a20180-50eb-11eb-9aae-0a27b6111417.png)
+![crashmonthly](https://user-images.githubusercontent.com/16946556/103948346-7cbafd80-50ee-11eb-8faa-de1fe80406b2.png)
 ![crashinjurywday](https://user-images.githubusercontent.com/16946556/103946553-99a20180-50eb-11eb-8633-310fa1936aae.png)
 ![crashtimeseries](https://user-images.githubusercontent.com/16946556/103946554-99a20180-50eb-11eb-9fdc-aa065bcd4ca7.png)
 ![crashinjurypercent](https://user-images.githubusercontent.com/16946556/103946555-99a20180-50eb-11eb-9292-de126fd26b6e.png)
