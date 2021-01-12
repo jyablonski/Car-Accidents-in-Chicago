@@ -28,17 +28,17 @@ A Time Series helps give a quick understanding of the distribution of the datase
 ![crashtimeseries](https://user-images.githubusercontent.com/16946556/103946554-99a20180-50eb-11eb-9fdc-aa065bcd4ca7.png)
 
 
-I took the same graph and instead looked at % chance of injury in every accident.  From the surface it seems like there are is an increasing % chance in the rate of injuries, which might be something worth looking into.
+I took the same graph and instead looked at % chance of injury in every accident.  From the surface it seems like there are is an increasing % chance in the rate of injuries these past 2 years, which might be something worth looking into.
 
 ![crashinjurypercent](https://user-images.githubusercontent.com/16946556/103946555-99a20180-50eb-11eb-9292-de126fd26b6e.png)
 
 
-Something I was curious about going into the analysis was if there's a difference in weekdays vs weekends.  Weekends seem to carry a noticeably higher % chance of injuries from car accidents than weekdays do.
+Something I was curious about going into the analysis was if there's a difference in weekdays vs weekends.  Weekends seem to carry a noticeably higher % chance of accidents and injuries than weekdays do, although Sunday is the lowest for any day.
 
 ![crashinjurywday](https://user-images.githubusercontent.com/16946556/103946553-99a20180-50eb-11eb-8633-310fa1936aae.png)
 
 
-And the same for months.  It seems like the summer months tend to have a slightly higher % chance of car accident injuries than the winter months.  This surprised me, I figured it would have been the other way around with the winter weather of snow, rain, and fog leading to more more car accidents and thus more injuries in those months.  Keep in mind the sample size of the dataset is over 200,000 observations, so even a few % difference is meaningful.
+And the same for months.  It seems like the summer months tend to have a slightly higher % chance of car accident injuries than the winter months.  This surprised me, I figured it would have been the other way around with the winter weather of snow, rain, and fog leading to more more car accidents and thus more injuries in those months.  My guess is maybe people drive considerably slower during the winter months (or don't drive as much), helping to lead to fewer car accidents resulting in injury.  Keep in mind the sample size of the dataset is over 200,000 observations, so even a few % difference is meaningful.
 
 ![crashmonthly](https://user-images.githubusercontent.com/16946556/103948906-6fead980-50ef-11eb-8193-18e8a39d6b7d.png)
 
@@ -81,4 +81,4 @@ The final graph looks at Primary Contributory Causes of each car accident.  Not 
 
 
 
-
+## Meaningful Insights from the Data
