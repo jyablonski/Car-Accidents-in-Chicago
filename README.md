@@ -78,7 +78,3 @@ The dataset also came with a variable labeling the type of car accident: whether
 The final graph looks at Primary Contributory Causes of each car accident.  Not obeying traffic signals & signs, as well as the physical conditions of the driver seem to be the most likely causes that lead to car accidents resulting in injuries.  Tying this data back to the longitude & latitude, graph, one thing you could do is take a subset of the dataset and only filter out only the disregarding traffic signs cause and then analyze the lat/long plot to see if there were any areas in the city that clearly stood out as having too many car accidents, and then use it as an example to recommend putting more signs or improving the driving conditions in those particular spots.
 
 ![crashprimcause](https://user-images.githubusercontent.com/16946556/103946771-eab1f580-50eb-11eb-9484-116f0397cfe0.png)
-
-
-
-## Meaningful Insights from the Data
