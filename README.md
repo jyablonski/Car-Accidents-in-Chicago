@@ -20,10 +20,11 @@ First Crash Type           | Number of Cars Involved
 Weather Condition
 Hour
 Month
+Street Name
 
 
 ## Exploratory Data Analysis
-A Time Series helps give a quick understanding of the distribution of the dataset.  I grouped the data by weeks and plotted their weekly points below.  You can see the massive drop-off in March 2020 due to COVID-19, and the data points for the rest of 2020 were considerably fewer than that of 2019's.
+A Time Series helps give a quick understanding of the distribution of the dataset.  I grouped the data by weeks and plotted their weekly points below.  You can see the massive drop-off in March 2020 due to COVID-19, and the data points for the rest of 2020 were noticeably fewer than that of 2019's.
 
 ![crashtimeseries](https://user-images.githubusercontent.com/16946556/111890845-b344ac80-89aa-11eb-90c1-4b1f47aaa563.png)
 
@@ -49,9 +50,10 @@ One common phenomenon I found was that "UNKNOWN" was a pretty common fill in for
 ![crashlightcond](https://user-images.githubusercontent.com/16946556/111890946-85ac3300-89ab-11eb-91be-7460aaf9362d.png)
 
 
-The data also came with Latitude / Longtitude points that allow users to graph where every accident happened.  I'm not familiar with the layout of Chicago, but this could definitely be something worth looking into if you had more knowledge of the city and wanted to identify hot spots for car accidents so that you could make road changes such as adding signs & traffic signals to help improve the safety of the citizens.
+The data also came with Latitude / Longtitude points that allow users to graph where every accident happened, as well as a Street Name variable.  I'm not familiar with the layout of Chicago, but this could definitely be something worth looking into if you had more knowledge of the city and wanted to identify hot spots for car accidents so that you could make road changes such as adding signs & traffic signals to help improve the safety of the citizens.
 
 ![crashlatlong](https://user-images.githubusercontent.com/16946556/111890840-b2137f80-89aa-11eb-9f0a-785cb2e28ccb.png)
+
 
 ![newpic2](https://user-images.githubusercontent.com/16946556/111890846-b344ac80-89aa-11eb-91e2-477b71a867fc.png)
 
