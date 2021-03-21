@@ -36,7 +36,6 @@ I took the same graph and instead looked at % chance of injury in every accident
 Something I was curious about going into the analysis was if there's a difference in weekdays vs weekends.  Weekends seem to carry a noticeably higher % chance of accidents and injuries than weekdays do, although Sunday is the lowest for any day.
 
 ![newpic](https://user-images.githubusercontent.com/16946556/111890843-b344ac80-89aa-11eb-9c27-a22dba6b0a96.png)
-![newpic2](https://user-images.githubusercontent.com/16946556/111890846-b344ac80-89aa-11eb-91e2-477b71a867fc.png)
 
 And the same for months.  It seems like the summer months tend to have a slightly higher % chance of car accident injuries than the winter months.  This surprised me, I figured it would have been the other way around with the winter weather of snow, rain, and fog leading to more more car accidents and thus more injuries in those months.  My guess is maybe people drive considerably slower during the winter months (or don't drive as much), helping to lead to fewer car accidents resulting in injury.  Keep in mind the sample size of the dataset is over 200,000 observations, so even a few % difference is meaningful.
 
@@ -53,6 +52,8 @@ One common phenomenon I found was that "UNKNOWN" was a pretty common fill in for
 The data also came with Latitude / Longtitude points that allow users to graph where every accident happened.  I'm not familiar with the layout of Chicago, but this could definitely be something worth looking into if you had more knowledge of the city and wanted to identify hot spots for car accidents so that you could make road changes such as adding signs & traffic signals to help improve the safety of the citizens.
 
 ![crashlatlong](https://user-images.githubusercontent.com/16946556/111890840-b2137f80-89aa-11eb-9f0a-785cb2e28ccb.png)
+
+![newpic2](https://user-images.githubusercontent.com/16946556/111890846-b344ac80-89aa-11eb-91e2-477b71a867fc.png)
 
 
 I also analyzed the time of day of all the car accidents to see if anything significant stood out. Everything here seems pretty standard, and you can clearly see which hours of the day are higher-than-average and which ones are considerably lower.
