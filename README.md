@@ -35,7 +35,6 @@ I took the same graph and instead looked at % chance of injury in every accident
 
 Something I was curious about going into the analysis was if there's a difference in weekdays vs weekends.  Weekends seem to carry a noticeably higher % chance of accidents and injuries than weekdays do, although Sunday is the lowest for any day.
 
-![crashinjurywday](https://user-images.githubusercontent.com/16946556/103946553-99a20180-50eb-11eb-8633-310fa1936aae.png)
 ![newpic](https://user-images.githubusercontent.com/16946556/111890843-b344ac80-89aa-11eb-9c27-a22dba6b0a96.png)
 ![newpic2](https://user-images.githubusercontent.com/16946556/111890846-b344ac80-89aa-11eb-91e2-477b71a867fc.png)
 
