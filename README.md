@@ -46,7 +46,7 @@ The Data also came with a lighting condition variable.  Driving at night appears
 
 One common phenomenon I found was that "UNKNOWN" was a pretty common fill in for most of the variables.  These car accident observations come from police reports, and the report is either made on the scene of the accident or back at the police department.  My guess is that a lot of these UNKNOWNS come from reports made at the police department where the police officers have less access to information, and/or simply don't see the need to accurately fill out every variable in the report.
 
-![crashlightcond](https://user-images.githubusercontent.com/16946556/111890837-b17ae900-89aa-11eb-9f95-5c5f8464dc36.png)
+![crashlightcond](https://user-images.githubusercontent.com/16946556/111890946-85ac3300-89ab-11eb-91be-7460aaf9362d.png)
 
 
 The data also came with Latitude / Longtitude points that allow users to graph where every accident happened.  I'm not familiar with the layout of Chicago, but this could definitely be something worth looking into if you had more knowledge of the city and wanted to identify hot spots for car accidents so that you could make road changes such as adding signs & traffic signals to help improve the safety of the citizens.
@@ -68,7 +68,7 @@ I took a subset of the original dataset and filtered out only the observations w
 
 Weather is another important variable I believed would have an impact.  Fog and rain seem to be the most dangerous conditions to be driving in, and I was surprised snow was so far down the list.  People must be considerably more cautious during snow conditions, as well as more aware of their surrounds and their speed.
 
-![crashweather](https://user-images.githubusercontent.com/16946556/111890838-b2137f80-89aa-11eb-8cef-51cba464bb4a.png)
+![crashweather](https://user-images.githubusercontent.com/16946556/111890945-85ac3300-89ab-11eb-8df9-4de5c0134474.png)
 
 
 The dataset also came with a variable labeling the type of car accident: whether it involved a pedestrian, a sideswipe, or instances like a parked car.  You can see car accidents involving pedestrians or bicyclists were among the most dangerous and most likely to lead to injury.
@@ -78,6 +78,7 @@ The dataset also came with a variable labeling the type of car accident: whether
 
 The final graph looks at Primary Contributory Causes of each car accident.  Not obeying traffic signals & signs, as well as the physical conditions of the driver seem to be the most likely causes that lead to car accidents resulting in injuries.  Tying this data back to the longitude & latitude, graph, one thing you could do is take a subset of the dataset and only filter out only the disregarding traffic signs cause and then analyze the lat/long plot to see if there were any areas in the city that clearly stood out as having too many car accidents, and then use it as an example to recommend putting more signs or improving the driving conditions in those particular spots.
 
-![crashprimcause](https://user-images.githubusercontent.com/16946556/111890847-b3dd4300-89aa-11eb-9206-06e04559295e.png)
+![crashprimcause](https://user-images.githubusercontent.com/16946556/111890944-85139c80-89ab-11eb-90dc-e2a403d22295.png)
+
 
 
