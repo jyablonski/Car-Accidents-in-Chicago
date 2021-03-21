@@ -39,7 +39,7 @@ Something I was curious about going into the analysis was if there's a differenc
 
 And the same for months.  It seems like the summer months tend to have a slightly higher % chance of car accident injuries than the winter months.  This surprised me, I figured it would have been the other way around with the winter weather of snow, rain, and fog leading to more more car accidents and thus more injuries in those months.  My guess is maybe people drive considerably slower during the winter months (or don't drive as much), helping to lead to fewer car accidents resulting in injury.  Keep in mind the sample size of the dataset is over 200,000 observations, so even a few % difference is meaningful.
 
-![crashmonthly](https://user-images.githubusercontent.com/16946556/111890842-b2ac1600-89aa-11eb-8ffe-dbb2c864729b.png)
+![crashmonthly](https://user-images.githubusercontent.com/16946556/111890994-0c611000-89ac-11eb-86b9-ea77d0fedeed.png)
 
 
 The Data also came with a lighting condition variable.  Driving at night appears to lead to higher probability of car accident injuries than driving during the day does.  That's probably something we could have guessed on our own, but it's interesting seeing the data actually affirm that belief.
@@ -68,7 +68,7 @@ I took a subset of the original dataset and filtered out only the observations w
 
 Weather is another important variable I believed would have an impact.  Fog and rain seem to be the most dangerous conditions to be driving in, and I was surprised snow was so far down the list.  People must be considerably more cautious during snow conditions, as well as more aware of their surrounds and their speed.
 
-![crashweather](https://user-images.githubusercontent.com/16946556/111890974-c99f3800-89ab-11eb-94c3-581ea73638a4.png)
+![crashweather](https://user-images.githubusercontent.com/16946556/111890993-0bc87980-89ac-11eb-9f7f-8107af371c71.png)
 
 
 The dataset also came with a variable labeling the type of car accident: whether it involved a pedestrian, a sideswipe, or instances like a parked car.  You can see car accidents involving pedestrians or bicyclists were among the most dangerous and most likely to lead to injury.
@@ -79,6 +79,3 @@ The dataset also came with a variable labeling the type of car accident: whether
 The final graph looks at Primary Contributory Causes of each car accident.  Not obeying traffic signals & signs, as well as the physical conditions of the driver seem to be the most likely causes that lead to car accidents resulting in injuries.  Tying this data back to the longitude & latitude, graph, one thing you could do is take a subset of the dataset and only filter out only the disregarding traffic signs cause and then analyze the lat/long plot to see if there were any areas in the city that clearly stood out as having too many car accidents, and then use it as an example to recommend putting more signs or improving the driving conditions in those particular spots.
 
 ![crashprimcause](https://user-images.githubusercontent.com/16946556/111890944-85139c80-89ab-11eb-90dc-e2a403d22295.png)
-
-
-
