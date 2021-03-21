@@ -68,7 +68,7 @@ I took a subset of the original dataset and filtered out only the observations w
 
 Weather is another important variable I believed would have an impact.  Fog and rain seem to be the most dangerous conditions to be driving in, and I was surprised snow was so far down the list.  People must be considerably more cautious during snow conditions, as well as more aware of their surrounds and their speed.
 
-![crashweather](https://user-images.githubusercontent.com/16946556/111890993-0bc87980-89ac-11eb-9f7f-8107af371c71.png)
+![crashweather](https://user-images.githubusercontent.com/16946556/111891010-2ef32900-89ac-11eb-90ce-ae4f2ef55911.png)
 
 
 The dataset also came with a variable labeling the type of car accident: whether it involved a pedestrian, a sideswipe, or instances like a parked car.  You can see car accidents involving pedestrians or bicyclists were among the most dangerous and most likely to lead to injury.
